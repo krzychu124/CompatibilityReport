@@ -3,7 +3,7 @@
 Compatibility Report mod for [Cities: Skylines](https://steamcommunity.com/app/255710/workshop/). This reports compatibility issues and missing dependencies for your subscribed mods.
 
 ### Current status
-This mod will be available soon the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=). This is the official successor to the [Compatibility Rebort by Finwickle](https://github.com/Finwickle/CompatibilityReport) and [Mod Compatibility Checker](https://github.com/CitiesSkylinesMods/AutoRepair) by aubergine.
+This mod will be available soon on the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=). This is the official successor to the [Compatibility Rebort by Finwickle](https://github.com/Finwickle/CompatibilityReport) and [Mod Compatibility Checker](https://github.com/CitiesSkylinesMods/AutoRepair) by aubergine.
 
 
 ### Implemented features
