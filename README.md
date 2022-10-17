@@ -29,7 +29,7 @@ The roadmap towards version 2.1 and the future ideas will be listed here:
 
 
 ### Credits
-This mod is based on [Compatibility Rebort](https://github.com/Finwickle/CompatibilityReport) by Finwickle and uses code from [Mod Compatibility Checker](https://github.com/CitiesSkylinesMods/AutoRepair) by aubergine. It also uses code snippets from:
+This mod is based on [Compatibility Report](https://github.com/Finwickle/CompatibilityReport) by Finwickle and uses code from [Mod Compatibility Checker](https://github.com/CitiesSkylinesMods/AutoRepair) by aubergine. It also uses code snippets from:
 * **Enhanced District Services** by chronofanz a.k.a. Tim ([GitHub](https://github.com/chronofanz/EnhancedDistrictServices))
 * **Change Loading Image 2** by BloodyPenguin ([GitHub](https://github.com/bloodypenguin/ChangeLoadingImage)) 
 * **Loading Screen Mod** by thale5: ([GitHub](https://github.com/thale5/LSM))
