@@ -37,7 +37,7 @@ This mod is inspired by and uses code from [Compatibility Rebort by Finwickle](h
 A big thanks to these modders and all those others for making their code available for education and re-use.
 
 Special thanks to:
-* **krzychu124** for doing the coding part that where needed to com to v2.
+* **krzychu124** for doing the coding part that where needed to come to v2.
 * **Finwickle** for his great work on the first version of this mod and all the hours he also spent in testing mods! It's a honour for me to continue your work!
 * **Aubergine** for the awesome MCC mod.
 
